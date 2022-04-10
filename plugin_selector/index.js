@@ -46,6 +46,7 @@ const dropdown = new Dropdown('#dropdown', {
     {label: 'Санкт-Петербург', id: 'spb'},
     {label: 'Новосибирск', id: 'nsk'},
     {label: 'Краснодар', id: 'krdr'},
-    {label: 'Ростов', id: 'rostov'}
+    {label: 'Ростов', id: 'rostov'},
+    {label: 'Калининград', id: 'kalin'}
   ]
 })
